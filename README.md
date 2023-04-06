@@ -1,3 +1,3 @@
 # PHP-functions-training
 
-Training pour Tests techniques
+Training fonctions PHP avec Grafikart  pour Tests techniques
